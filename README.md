@@ -1,10 +1,10 @@
-# ✨ digital-teams ✨ 
+# ✨ digital-teams ✨
 
 <!---
 - 👋 Hi, I’m @digital-teams
-- 👀 I’m 
-- 🌱 I’m 
-- 💞️ I’m 
+- 👀 I’m
+- 🌱 I’m
+- 💞️ I’m
 <----
 
 <!---
